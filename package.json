@@ -1,0 +1,10 @@
+{
+  "name": "pairing-server",
+  "type": "module",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "express": "^4.19.2",
+    "pino": "^9.0.0"
+  }
+}
